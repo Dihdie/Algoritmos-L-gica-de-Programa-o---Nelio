@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 64 73" height="73" width="64" data-name="01" id="_01"><defs><style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style></defs><path data-cppathid="10000" d="M34.587,17.724a16.166,16.166,0,1,0-1.656,24.286L50.274,59.354a2.178,2.178,0,1,0,3.08-3.08L36.011,38.931A16.179,16.179,0,0,0,34.587,17.724ZM32.316,37.91a1.435,1.435,0,0,0-.405.405A12.683,12.683,0,1,1,32.316,37.91Z" class="cls-1" data-name="Forma 1" id="Forma_1"/></svg>
