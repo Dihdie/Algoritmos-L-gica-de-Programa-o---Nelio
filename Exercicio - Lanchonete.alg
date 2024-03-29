@@ -27,6 +27,6 @@ inicio
   escreval("Digite a quantidade comprada")
   leia (quantidade)
   totalApagar <- quantidade * precoProduto
-  escreval("Totatl a pagar: " , totalApagar:4:2)
+  escreval("Totatl a pagar: " , totalApagar:4:2:)
   
 fimalgoritmo
