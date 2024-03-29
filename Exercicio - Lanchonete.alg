@@ -1,6 +1,6 @@
 algoritmo "Exercicio - Lanchonete"
 // Função :
-// Autor :
+// Autor :  Diego Santyos Lima
 // Data : 28/03/2024
 // Seção de Declarações 
 var
